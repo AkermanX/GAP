@@ -5,13 +5,16 @@
 }
 /*Cellphone*/
 @media only screen and (max-width : 600px) {
-	#contentHead p {
+  #contentHead p {
   	display:none;
   }	
-
-  #contentHead {
-  	height:1100px !important;
+ #content #contentHead {
+  	height:110px !important;
+  	
   }	
+   #header {
+   	font-size:1.6em;
+   }	
  
   .smallBox {
   	width: 96% !important;
